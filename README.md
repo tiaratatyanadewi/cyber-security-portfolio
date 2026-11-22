@@ -1,5 +1,6 @@
 
-Cybersecurity Case Study: Internal Network Penetration Testing & Lateral Movement (Lab Assessment)
+#Cybersecurity Case Study: Internal Network Penetration Testing & Lateral Movement (Lab Assessment)
+
 Room TryHackme: https://tryhackme.com/room/basicpentestingjt
 1. Introduction
 Project Title: Internal Network Penetration Testing & Lateral Escalation Case Study
